@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Screenbows/static/css/main.eaa3b17a.css",
+    "main.js": "/Screenbows/static/js/main.306e256f.js",
+    "index.html": "/Screenbows/index.html",
+    "main.eaa3b17a.css.map": "/Screenbows/static/css/main.eaa3b17a.css.map",
+    "main.306e256f.js.map": "/Screenbows/static/js/main.306e256f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa3b17a.css",
+    "static/js/main.306e256f.js"
+  ]
+}
